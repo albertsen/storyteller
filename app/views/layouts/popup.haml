@@ -1,0 +1,15 @@
+!!! XML UTF-8
+!!!
+-title = yield :title
+%html
+  %head
+    %link{:rel => "stylesheet", :type => "text/css", :href => "/stylesheets/main.css"}
+    =yield :head
+    %title
+      Jürgen Albertsen
+      -unless title.blank?
+        ="- #{title}"
+  %body
+    #popup
+      #content
+        =yield

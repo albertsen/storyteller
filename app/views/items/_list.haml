@@ -1,0 +1,16 @@
+-content_for :title do
+  =@title
+-content_for :subheader do
+  %a{:href => @subheader_link} 
+    =@title
+#items
+  -unless @subtitle.blank?
+    %h1.subtitle
+      =@subtitle
+  -unless @items.blank?
+    -@items.each do |item|
+      =render :partial => item_overview_template(item), :locals => { :item => item }
+    =render :partial => "items/trail"
+  -else
+    %i
+      Nichts gefunden

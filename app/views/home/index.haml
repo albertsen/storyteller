@@ -1,0 +1,9 @@
+=content_for :head do
+  %link{:rel => "stylesheet", :type => "text/css", :href => "/stylesheets/home.css"}
+%h1 Jürgen Albertsen
+#toc
+  %ul
+    %li 
+      =link_to "Blog", blog_path
+    %li
+      =link_to "Geschichten", geschichten_path

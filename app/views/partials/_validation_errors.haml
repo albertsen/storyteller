@@ -1,0 +1,9 @@
+-unless object.nil? or object.errors.empty?
+  .error
+    -if message
+      %h3 
+        =message
+    %ul
+      -object.errors.each do |attr,msg|
+        %li
+          =msg

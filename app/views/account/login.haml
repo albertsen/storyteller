@@ -1,0 +1,19 @@
+-content_for :title do
+  Login
+#login_form
+  -if flash[:error]
+    #error
+      =flash[:error]
+  =validation_errors_for @login_credentials, "Anmeldung fehlgeschlagen:"
+  -form_for :credentials, @login_credentials, :url => login_url  do |f|
+    =hidden_field_tag 'request_uri', @request_uri
+    %label.top{ :for => "username" } 
+      Username
+    =f.text_field :username
+    %label{ :for => "password" }
+      Password
+    =f.password_field :password
+    %div
+      =f.check_box :remember_me
+      Remember me
+    =submit_tag "Login"

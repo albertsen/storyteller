@@ -1,0 +1,6 @@
+.comment
+  ==<a name="comment_#{comment.id}"></a>
+  .comment-meta
+    =comment_meta(comment)
+  .body
+    =prepare_text(comment.body, :sanitize => true)

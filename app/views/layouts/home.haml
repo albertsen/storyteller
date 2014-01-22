@@ -1,0 +1,23 @@
+!!! XML UTF-8
+!!!
+%html
+  %head
+    %link{:rel => "stylesheet", :type => "text/css", :href => "/stylesheets/main.css"}
+    = auto_discovery_link_tag(:rss, feed_url)
+    %title
+      Jürgen Albertsen erzählt
+  %body.home
+    #home
+      #header
+        %h1
+          Jürgen Albertsen
+        %h2
+          erzählt
+      #image
+        %img{ :src => "/images/home.jpg"}
+      #contents
+        -@sections.each do |section|
+          =link_to section.name, section.path
+      -unless @bait.blank?
+        #bait
+          =prepare_text(@bait.body)

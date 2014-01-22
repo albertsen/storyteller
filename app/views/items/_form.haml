@@ -1,0 +1,41 @@
+-content_for :title do
+  ==Eintrag #{describe_item_action(@item)}
+#item
+  -if !@item.new_record? && @item.visible
+    .back
+      &larr;
+      =link_to "Zum Eintrag", item_path(@item), :class => "back"
+  -elsif !@item.visible
+    .back
+      &larr;
+      =link_to "Zur Liste", invisible_items_url
+  -if flash[:notice]
+    .notice
+      =flash[:notice]
+  =validation_errors_for @item, "Fehler:"
+  -form_for :item, @item, :url => url, :html => {:class => "item", :method => method, :id => "item-form", :multipart => true} do |form|
+    #fields
+      =hidden_field_tag :type, @item.class.name
+      =form.label :slug, "Slug", :class => "top"
+      =form.text_field :slug
+      =form.label :slug, "Titel"
+      =form.text_field :title
+      =form.label :teaser, "Aufmacher"
+      =form.text_area :teaser, :rows => 4
+      =form.label :body, "Text"
+      =form.text_area :body, :rows => 30
+      %a.guide{ :href => "http://redcloth.org/hobix.com/textile/quick.html", :target => "textile" }
+        Textile
+      =form.label :section, "Rubrik"
+      =collection_select(:item, :section_id, Section.find_all, :id, :name)
+      =form.label :created_at, "Datum"
+      =form.text_field :created_at, :class => "third"        
+      =form.label :order, "Sortierung"
+      =form.text_field :order, :class => "third"        
+      #visible
+        =form.check_box :visible
+        Visible
+    =submit_tag action
+    %br
+    -if @item.id
+      =link_to "Delete", item_path(@item), :method => "delete", :confirm => "Sure?"

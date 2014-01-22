@@ -1,0 +1,22 @@
+xml.instruct! :xml, :version=>"1.0" 
+xml.rss(:version=>"2.0"){
+  xml.channel{
+    xml.title("Jürgen Albertsen")
+    xml.link("http://www.juergenalbertsen.de/")
+    xml.language('de-DE')
+      @items.each do |item|
+        xml.item do
+          xml.title(item.title)
+          unless item.teaser.blank?
+            xml.description(prepare_text(item.teaser, :embed => false))      
+          else
+            xml.description(prepare_text(item.body, :embed => false))      
+          end
+          xml.author("Jürgen Albertsen")               
+          xml.pubDate(item.created_at.strftime("%a, %d %b %Y %H:%M:%S %z"))
+          xml.link(deep_item_url(item))
+          xml.guid(deep_item_url(item))
+        end
+      end
+  }
+}

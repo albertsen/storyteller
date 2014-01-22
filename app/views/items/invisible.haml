@@ -1,0 +1,7 @@
+-content_for :title do 
+  Unsichtbar
+#items-list
+  %ul
+    -@items.each do |item|
+      %li
+        =link_to item.identification, edit_item_url(item)

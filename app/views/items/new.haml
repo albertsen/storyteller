@@ -1,0 +1,2 @@
+-rendered_action = File.basename(__FILE__, File.extname(__FILE__))
+=render :partial => "form", :locals => { :url => items_path, :action => "New", :method => "post", :rendered_action => rendered_action}

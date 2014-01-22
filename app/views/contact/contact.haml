@@ -1,0 +1,12 @@
+-content_for :title do
+  Kontakt
+#contact
+  =validation_errors_for @contact_request, "Fehler:"
+  -form_for :contact_request, @contact_request, contact_path do |form|
+    =form.label :sender, "Name"
+    =form.text_field :sender
+    =form.label :sender_email, "E-Mail-Adresse"
+    =form.text_field :sender_email
+    =form.label :body, "Text"
+    =form.text_area :body
+    %input{:type => "submit", :value => "Senden"}
