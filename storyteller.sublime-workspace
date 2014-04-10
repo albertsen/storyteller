@@ -1,0 +1,265 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cla",
+				"cla	class .. end"
+			],
+			[
+				"a",
+				"alias"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/juergen/Dropbox/Schmiedekurse.txt",
+		"/Users/juergen/Dropbox/Backups/Threema ID.txt",
+		"/Users/juergen/Development/Projects/hybris/classic/chinaccelerator/yworkspace/sample-config/china_acc/build.gradle",
+		"/Users/juergen/Development/Projects/hybris/classic/gitplayground/test.txt",
+		"/Users/juergen/Development/Projects/hybris/classic/sandbox/build.gradle",
+		"/Users/juergen/Development/Projects/hybris/classic/yworkspace/sample-config/b2c_acc/build.gradle",
+		"/Users/juergen/Development/Projects/hybris/classic/yworkspace/settings.gradle",
+		"/Users/juergen/Development/Projects/hybris/classic/gradle-workspaces-poc/settings.gradle",
+		"/Applications/eclipse/Eclipse.app/Contents/MacOS/eclipse.ini",
+		"/Applications/eclipse/configuration/config.ini",
+		"/Users/juergen/Development/Projects/hybris/classic/gradle-workspaces-poc/sample-config/b2c_acc/localextensions.xml",
+		"/Users/juergen/Development/Projects/hybris/classic/gradle-workspaces-poc/sample-config/b2c_acc/build.gradle",
+		"/Users/juergen/Development/Projects/hybris/classic/gradle-workspaces-poc/config/localextensions.xml",
+		"/Users/juergen/.profile",
+		"/Users/juergen/Development/Projects/hybris/classic/gradle-workspaces-poc/bin/modules/coreaccelerator-module-5.2.0.0-SNAPSHOT/acceleratorfacades/resources/acceleratorfacades-beans.xml",
+		"/Users/juergen/Development/Projects/hybris/classic/gradle-workspaces-poc/gradle.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/trunk/suite/workspace.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/trunk/suite/integration/workspaces/modules/advancedpersonalization/pom.xml",
+		"/Users/juergen/Development/Projects/hybris/classic/gradle-workspaces-poc/config/build.gradle",
+		"/Users/juergen/Development/Projects/hybris/classic/gradle-workspaces-poc/sample-config/b2b_acc/build.gradle",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/juergen/Downloads/b2bpunchoutaddon.diff",
+		"/Users/juergen/Downloads/addonsupport.diff",
+		"/Users/juergen/Downloads/b2bsecurecustomerportal.diff",
+		"/Users/juergen/Desktop/patch.log",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/workspace.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/integration/workspaces/DBT/COM-1/search-and-nav_module.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/integration/workspaces/DBT/COM-1/commercesearch_suite.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/integration/workspaces/DBT/COM-1/commercesearch_module.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/integration/workspaces/b2b_workspace.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/integration/workspaces/b2c_workspace.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/integration/workspaces/commerce_custom_workspace.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/integration/workspaces/commerce_workspace.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/integration/workspaces/platform_workspace.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/integration/workspaces/telco_workspace.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/integration/workspaces/workspace_accelerator.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/integration/workspaces/hana_integration_workspace.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/integration/workspaces/hana_b2b_b2c_integration_workspace.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/bin/ext-hybris/commercesearchbackoffice/backoffice/src/de/hybris/commercesearchbackoffice/cockpitng/config/currentsite/factories/CurrentSiteJaxbFactory.java",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/bin/ext-hybris/commercesearchbackoffice/backoffice/src/de/hybris/commercesearchbackoffice/cockpitng/config/currentsite/providers/impl/CockpitConfigurationCurrentSiteProvider.java",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/bin/ext-hybris/commercesearchbackoffice/backoffice/src/de/hybris/commercesearchbackoffice/services/impl/DefaultSiteService.java",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/config/local.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/bin/ext-hybris/yb2bacceleratorstorefront/extensioninfo.xml",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/config/localextensions.xml",
+		"/Users/juergen/Development/Projects/hybris/classic/trunk/platform/bin/platform/ext/core/resources/core/unittest/reservedTypecodes.txt",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/integration/bamboo/resources/junit/reservedTypeCodeInclude.txt",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/bin/ext-hybris/commercesearchhmc/extensioninfo.xml",
+		"/Users/juergen/Desktop/hybris/bin/custom/commercesearchhmc/.classpath",
+		"/Users/juergen/Development/Projects/hybris/classic/b2b/suite/bin/ext-hybris/commercesearchhmc/.classpath",
+		"/Users/juergen/Desktop/hybris/bin/custom/commercesearchhmc/extensioninfo.xml",
+		"/Users/juergen/Development/Projects/hybris/classic/trunk/platform/config/local.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/searchandizing/config/local.properties",
+		"/Users/juergen/Development/Projects/hybris/classic/searchandizing/config/localextensions.xml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"final ",
+			"release/5.2.0-M1",
+			"release/5.1.1-M1",
+			"feature/ACC-667",
+			"feature/ACC-666",
+			"R5.2.0M1",
+			"R5.1.1M1",
+			"F2",
+			"F1",
+			"\\n",
+			"/",
+			"wcms-module-5.2.0.0-SNAPSHOT/",
+			"search-and-nav-module-5.2.0.0-SNAPSHOT/",
+			"customerservice-module-5.2.0.0-SNAPSHOT/",
+			"corecommerce-module-5.2.0.0-SNAPSHOT/",
+			"coreaccelerator-module-5.2.0.0-SNAPSHOT/",
+			"commerceservices-module-5.2.0.0-SNAPSHOT/",
+			"b2c-accelerator-module-5.2.0.0-SNAPSHOT/",
+			"advancedpersonalization-module-5.2.0.0-SNAPSHOT/",
+			"(\\s)*",
+			"\\n",
+			"/",
+			"$(.^/)*/",
+			".*/",
+			"picku",
+			"acceleratorstorefontcommons",
+			"acceleratorservices",
+			"acceleratorfacades",
+			"acceleratorcms",
+			"platformhome",
+			"AbstractSolrGuidedNavigationConfiguration",
+			"punc",
+			"secur",
+			"punchout",
+			"newproduct.ypm.fra.hybris.com"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"\"release/5.2.0-M1\"",
+			"\"release/5.1.1-M1\"",
+			"\"feature/ACC-667\"",
+			"\"feature/ACC-666\"",
+			"release/5.2.0-M1",
+			"release/5.1.1-M1",
+			"feature/ACC-667",
+			"feature/ACC-666",
+			",",
+			"",
+			",",
+			"electronics.local",
+			"localhost"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "storyteller.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
