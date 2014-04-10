@@ -1,8 +1,0 @@
-%div{ :class => "item #{item.section}"}
-  -unless item.title.blank?    
-    %h1
-      =item.title
-  .body
-    =prepare_text(item.body)
-  -if logged_in?
-    =render :partial => "items/meta", :locals => { :item => item }

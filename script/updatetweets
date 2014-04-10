@@ -1,8 +1,0 @@
-#!/usr/bin/env ruby
-
-require "rubygems"
-require "restclient"
-require "json"
-require "mash"
-
-

@@ -1,7 +1,0 @@
-%div{ :class => "item short-story"}
-  %h1
-    =link_to item.title, deep_item_url(item)
-  .teaser
-    =prepare_text(item.teaser || "Neue Geschichte")
-  .more
-    =link_to "Lesen...", deep_item_url(item)

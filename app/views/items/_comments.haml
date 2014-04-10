@@ -1,9 +1,0 @@
-==<a name="comments"></a>
-.comments
-  -unless @item.comments.empty?
-    .comment-list
-      %h1 
-        =number_of_comments(@item.comments.size)
-      -@item.comments.each do |comment|
-        =render :partial => "comment", :locals => { :comment => comment }
-  =render :partial => "comment_form"
