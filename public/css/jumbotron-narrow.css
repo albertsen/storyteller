@@ -45,6 +45,9 @@ body {
 .jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
+  background-image: url('/img/headerbg.jpg');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 .jumbotron .btn {
   padding: 14px 24px;
@@ -76,4 +79,8 @@ body {
   .jumbotron {
     border-bottom: 0;
   }
+}
+
+.toc p {
+  margin-left: 30px;
 }

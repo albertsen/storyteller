@@ -1,48 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="/css/bootstrap.css" rel="stylesheet">
-    <link href="/css/jumbotron-narrow.css" rel="stylesheet">
-    <title>Jürgen Albertsen</title>
+<div class="jumbotron">
+  <h1>Jürgen Albertsen</h1>
+  <p class="lead">Geschichten</p>        
+</div>
 
-    <!-- Bootstrap -->
+<div class="row marketing toc">
+  <% stories.each do | k, v | %>
+    <h3><a href="/stories/<%= k %>"><%= v['title'] %></a></h3>
+    <p><%= v['teaser'] %></p>
+  <% end %>
+</div>
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="container">
-      <div class="jumbotron">
-        <h1>Jürgen Albertsen</h1>
-        <p class="lead">Geschichten</p>        
-      </div>
-
-      <div class="row marketing">
-          <h4>Subheading</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-
-          <h4>Subheading</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
-          <h4>Subheading</h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
-      </div>
-
-      <div class="footer">
-        <p>Über den Autoren</p>
-      </div>
-
-    </div> <!-- /container -->
-
-
-    <script src="/js/jquery-1.11.0.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-  </body>
-</html>
