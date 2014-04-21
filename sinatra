@@ -16,7 +16,7 @@ get "/" do
 		{}
 	end
 	puts stories
-	show :index, :title => "J�rgen Albertsen", :stories => stories
+	show :index, :title => "Jürgen Albertsen", :stories => stories
 end
 
 get "/stories/:story" do
@@ -30,7 +30,7 @@ get "/stories/:story" do
 	i = contents.index "\n"
 	story_title = contents[0..i]
 	story_text = RDiscount.new(contents[i..-1]).to_html.force_encoding('UTF-8')
-	show :story, :title => "Juergen Albertsen: #{story_title}", :story_title => story_title, :story_text => story_text
+	show :story, :title => "Jürgen Albertsen: #{story_title}", :story_title => story_title, :story_text => story_text
 end
 
 def show(template, locals = {})
