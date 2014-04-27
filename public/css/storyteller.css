@@ -45,22 +45,30 @@ body {
 .jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 10px;
   background-image: url('/img/headerbg.jpg');
   background-size: 100% 100%;
   background-repeat: no-repeat;
+  text-stroke-color: #d78965;
+  text-stroke-width: 3px;
 }
 .jumbotron .btn {
   padding: 14px 24px;
   font-size: 21px;
 }
 
+
 /* Supporting marketing content */
 .marketing {
-  margin: 40px 0;
+  margin: 0 0;
 }
 .marketing p + h4 {
   margin-top: 28px;
 }
+.marketing p + h3 {
+  margin-top: 28px;  
+}
+
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
@@ -96,4 +104,14 @@ body {
 
 .story h3  {
   text-align: center;
+}
+
+.footer {
+  margin-top: 20px;
+  padding-top: 10px;
+  color: #888;
+}
+
+.footer a {
+  color: #888;
 }
