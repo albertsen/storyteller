@@ -81,6 +81,19 @@ body {
   }
 }
 
-.toc p {
-  margin-left: 30px;
+.toc p a {
+  text-decoration: none;
+}
+
+.toc p .read-more {
+  text-decoration: underline;
+}
+
+.story h1  {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.story h3  {
+  text-align: center;
 }

@@ -1,8 +1,9 @@
-#!/usr/bin/env ruby
+#!/usr/local/bin/ruby
 require "sinatra"
 require "yaml"
 require "rdiscount"
 
+set :bind, '0.0.0.0'
 set :port, 8000
 
 root = settings.root
