@@ -38,7 +38,8 @@ get "/stories/:story" do
 	end
 	content = File.read file, {:encoding => "UTF-8"}
 	i = content.index "="
-	title = content[0..i]
+	title = content[0..(i - 1)].strip
+	title.gsub!(/(<[^>]*>)|\n|\t/s) {" "}
 	text = RDiscount.new(content).to_html
 	show :story, :title => "Jürgen Albertsen: #{title}", :story_title => title, :story_text => text, :slug => slug
 end
