@@ -1,4 +1,5 @@
 Hinter dem Feld die Lichter
+===========================
 
 Elke hatte es immer gehasst, wenn ihre Mutter es getan hatte, und jetzt tat sie es selbst. Sie stand am Fenster, oben im Flur, und lugte durch die Gardinen. Unten auf der Terrasse saß immer noch der junge Andresen. Es war mittlerweile dunkel geworden, und ihn beschien das Licht aus der Küche. Er trug Jeans und T-Shirt mit Flecken von Stalldreck und blickte über das dunkle Feld hinüber zu den Lichtern auf der anderen Seite. Es waren die Lichter seines Hofes, und wenn man es nicht wusste, könnte man meinen, er gehörte nicht auf jenen Hof, sondern hierher, als hätte er Feierabend und genoss den warmen Abend auf der Terrasse. Als wartete er nur darauf, dass seine Frau die Küche fertig machte und sich zu ihm setzte. Er rührte sich nicht. Seine Arme lagen auf den Armlehnen, seine Füße standen parallel auf dem Boden.
 
