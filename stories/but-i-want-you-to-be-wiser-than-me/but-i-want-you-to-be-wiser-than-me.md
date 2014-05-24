@@ -1,5 +1,5 @@
 But I Want You<br/>to Be Wiser than Me
-==================================
+======================================
 
 
 Ich sitze im Lenbach mit Jochen und höre, wie er sagt: »Ich konnte in dem Zimmer nur schlafen, wenn ich die Klimaanlage angemacht habe, aber dann bin ich jeden Morgen aufgewacht mit verstopfter Nase und auch noch verschwitzt. Hätte ich denn krank werden sollen? Ich hab mir was Anderes gesucht. Ich musste ja fit sein. Kann ich was dafür, das gerade Olympia ist und alles so teuer? Jetzt wollen sie es mir nicht zahlen, 1500 Pfund. Was ist das in Euro?«

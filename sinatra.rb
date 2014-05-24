@@ -12,27 +12,25 @@ STORIES_CACHE_DIR = "#{ROOT}/.cache/stories"
 
 get "/" do
 	stories_file = "#{STORIES_DIR}/index.yaml"
-	puts stories_file
 	stories = if File.exists?(stories_file)
 		YAML.load_file stories_file
 	else
 		{}
 	end
-	puts stories
 	show :index, :title => "Jürgen Albertsen", :stories => stories
 end
 
 get "/stories/:story.:ext" do
 	slug = params[:story]
 	ext = params[:ext]
-	file = "#{STORIES_DIR}/#{slug}.#{ext}"
+	file = "#{STORIES_DIR}/#{slug}/#{slug}.#{ext}"
 	send_file file
 end
 
 
 get "/stories/:story" do
 	slug = params[:story]
-	file = "#{STORIES_DIR}/#{slug}.md"
+	file = "#{STORIES_DIR}/#{slug}/#{slug}.md"
 	unless File.exists? file
 		halt 404, "Does not exist: #{slug}"
 	end
