@@ -6,7 +6,7 @@
 <div class="row marketing toc">
   <% stories.each do | k, v | %>
     <h3><a href="/stories/<%= k %>"><%= v['title'] %></a></h3>
-    <p><%= v['teaser'] %></p>
+    <p><a href="/stories/<%= k %>"><%= v['teaser'] %> (<span class="read-more">Weiterlesen&hellip;</span>)</a></p>
   <% end %>
 </div>
 
