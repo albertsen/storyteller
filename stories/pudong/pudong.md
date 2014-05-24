@@ -328,7 +328,7 @@ einreichen und das Geld zurückbekommen, aber egal. Er langte noch einmal
 in die Innentasche und fand auch den Stift.
 
 Sie waren am Hotel angekommen. Anna steckte das Handy zurück in ihre
-Tasche und sagte, »Tut mir Leid.« Wieder piepte es, aber diesmal
+Tasche und sagte noch einmal, »Tut mir Leid.« Wieder piepte es, aber diesmal
 ignorierte sie es. Sie gingen durch die Drehtür in die Lobby. Auf der
 anderen Seite blieben sie für ein paar Momente erleichtert stehen und
 fanden in der Klimaanlage zu ihrer Würde zurück. Anna zog ihr Cape
