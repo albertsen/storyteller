@@ -164,11 +164,10 @@ für eine Chinesin: Die schwarzen Haare, die Figur, die Größe. Aber als
 sie Grün hatte und losging, in dieselbe Richtung, in die auch er musste,
 beobachtete er ihre Schritte: länger als die einer Chinesin, weniger
 flink, dafür ein Schweben. Sie trug weder ein Kleidchen noch Hotpants,
-sondern einen knielangen grauen kielangen Rock, Strumpfhosen, schwarze
-Stiefelchen und eine Art dunkelgrünes Cape. Ihre Haare, zu kurz für eine
-Chinesin, ließen ihre Ohren frei und ihren Nacken. In ihrer rechten
-Armbeuge trug sie eine Handtasche. In anderen Hand hielt sie ein Handy
-ans Ohr.
+sondern einen knielangen grauen Rock, Strumpfhosen, schwarze Stiefelchen
+und eine Art dunkelgrünes Cape. Ihre Haare, zu kurz für eine Chinesin,
+ließen ihre Ohren frei und ihren Nacken. In ihrer rechten Armbeuge trug
+sie eine Handtasche. In anderen Hand hielt sie ein Handy ans Ohr.
 
 Die Stadt war um diese Zeit ruhig genug, dass Jan ihre Stimme hören
 konnte, aber nur als Laut, nicht als Sprache, unterbrochen durch das
@@ -328,11 +327,11 @@ einreichen und das Geld zurückbekommen, aber egal. Er langte noch einmal
 in die Innentasche und fand auch den Stift.
 
 Sie waren am Hotel angekommen. Anna steckte das Handy zurück in ihre
-Tasche und sagte noch einmal, »Tut mir Leid.« Wieder piepte es, aber diesmal
-ignorierte sie es. Sie gingen durch die Drehtür in die Lobby. Auf der
-anderen Seite blieben sie für ein paar Momente erleichtert stehen und
-fanden in der Klimaanlage zu ihrer Würde zurück. Anna zog ihr Cape
-zusammen, aber Jan sah, wie sehr sie sich über das Frieren freute.
+Tasche und sagte noch einmal, »Tut mir Leid.« Wieder piepte es, aber
+diesmal ignorierte sie es. Sie gingen durch die Drehtür in die Lobby.
+Auf der anderen Seite blieben sie für ein paar Momente erleichtert
+stehen und fanden in der Klimaanlage zu ihrer Würde zurück. Anna zog ihr
+Cape zusammen, aber Jan sah, wie sehr sie sich über das Frieren freute.
 
 Er machte die Dim-Sum-Rechnung so glatt es ging und schrieb auf die
 Rückseite seine Telefonnummer. Er reichte sie Anna und sagte:
@@ -772,7 +771,7 @@ Argument, jede Steigerung, er wüsste nicht, was er Anderes sagen könnte.
 Sie fragte noch einmal: »Willst du?«
 
 Vielleicht wäre Jan sich noch sicherer gewesen, wenn er mit Kristina,
-wenn ich mit irgend einer anderen Frau geschlafen hätte. So oft hatte er
+wenn er mit irgend einer anderen Frau geschlafen hätte. So oft hatte er
 Silvia schon vorgeschlagen, zu einen anderen Arzt zu gehen, einen, der
 nicht nur ein Mittel verschrieb, damit sie trotz dem Pfeifen, das sie
 hörte, schlafen konnte, sondern einen Arzt, der dafür da war zu reden.
@@ -899,7 +898,7 @@ früher getanzt hatten.
 
 Silvia bastelte an den Puppen, wenn er nach Hause kam. Sie bastelte an
 ihnen, wenn sie zusammen fernsahen. Sie bastelte an ihnen, wenn er in
-seinem Arbeitszimmer saß, so tat, als müsste ich noch Emails schreiben.
+seinem Arbeitszimmer saß, so tat, als müsste er noch Emails schreiben.
 Wer ließ wen allein?
 
 Solange sie über nichts anderes redeten als darüber, was es zu Abend
@@ -1125,7 +1124,7 @@ geflirtet hatte. Würde es etwas ändern, wenn er eine erfand? Würde sie
 ihn mehr hassen oder hätte sie dann ein anderes Ziel für ihrem Hass?
 Würde es die Sache einfacher machen für ihn?
 
-Doch anlügen konnte ich sie immer noch nicht. Er schüttelte den Kopf.
+Doch anlügen konnte er sie immer noch nicht. Er schüttelte den Kopf.
 
 »Ich glaube dir nicht«, sagte sie.
 
