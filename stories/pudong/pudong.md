@@ -210,7 +210,7 @@ um sie zu stützen.
 Unter dem Cape spürte Jan ihren festen Oberarm, einen trainierten
 Muskel. Sie war die erste Frau, die er seit Silvia anfasste. Er könnte
 sie einfach zu sich heranziehen, obwohl er sie doch gar nicht kannte. Er
-erinnerte sich an Krista, an ihren Kuss, aber die zählte nicht.
+erinnerte sich an Kristina, an ihren Kuss, aber die zählte nicht.
 
 Die Frau schüttelte ihn nicht ab, sie machte einfach einen Schritt
 zurück, so dass Jan sie loslassen musste. Jeden Moment konnte wieder ein
@@ -924,16 +924,16 @@ Jan träumte von Frauen, die er in Filmen oder in der U-Bahn sah, aber
 tat das nicht jeder? Manchmal flirtete er mit einer Kollegin, aber tat
 das nicht jeder? 
 
-Jan hätte nicht sagen nicht sagen, wann sich ihre Routine in
-Gefangenschaft verwandelte. Warum fing er an zu reisen? Weil er sah, wie
-Silvias Glück in der Isolation immer brüchiger wurde, weil in letzter
-Zeit die Abende immer seltener wurden, an denen sie an ihren Puppen
-arbeitete und sie immer öfter in einer Decke eingewickelt auf den
-Fernseher starrte, ohne das Programm zu wechseln? Weil Silvia immer
-öfters Wein trank, manchmal sogar selbst eine Flasche aufmachte, ohne
-dass sie dann Sex hatten danach? Bröckelte Silvias Illusion, doch eine
-Art von Leben zu haben, jetzt da Jan unterwegs war und sie immer wieder
-Nächte und Nächte allein verbringen musste?
+Jan hätte nicht sagen können, wann sich ihre Routine in Gefangenschaft
+verwandelte. Warum fing er an zu reisen? Weil er sah, wie Silvias Glück
+in der Isolation immer brüchiger wurde, weil in letzter Zeit die Abende
+immer seltener wurden, an denen sie an ihren Puppen arbeitete und sie
+immer öfter in einer Decke eingewickelt auf den Fernseher starrte, ohne
+das Programm zu wechseln? Weil Silvia immer öfters Wein trank, manchmal
+sogar selbst eine Flasche aufmachte, ohne dass sie dann Sex hatten
+danach? Bröckelte Silvias Illusion, doch eine Art von Leben zu haben,
+jetzt da Jan unterwegs war und sie immer wieder Nächte und Nächte allein
+verbringen musste?
 
 Früher hatte er Geschäftsreisen immer abgelehnt, aus demselben Grund,
 warum er keine Einladungen zu Partys angenommen hatte: Aus Rücksicht auf
@@ -941,7 +941,7 @@ Silvia. Irgendwann aber sagte sein Chef: »Du musst nach Berlin. Du bist
 der einzige, der das machen kann.« Vielleicht nutzte er nur Jans
 Eitelkeit aus, aber dort in Berlin gab es einen Kunden, der viel zu
 schnell viel zu viel wollte, gab es die Restaurants und Bars, in die Jan
-mit meinen Kollegen abends ging, gab es Lästereien und Affären, gab es
+mit seinen Kollegen abends ging, gab es Lästereien und Affären, gab es
 kaum einen Gedanken an Silvia — gab es ein Leben.
 
 Der Arzt verschrieb Silvia Schlaftabletten, und sie fing an, Dinge zu
@@ -1001,7 +1001,7 @@ Er sagte: »Wie du getanzt hast.«
 
 »Sonst sieht mich keiner, wenn ich tanze.«
 
-»Wo tanzt du denn, wo ich die keiner sieht?«
+»Wo tanzt du denn, wo dich keiner sieht?«
 
 »In meinen Zimmer.«
 
@@ -1022,9 +1022,9 @@ und in seinen Schritt.
 
 »Als ich dir aufgeholfen habe.«
 
-Sie packte packte Schwanz. »Soll ich dir jetzt aufhelfen?«
+Sie packte seinen Schwanz. »Soll ich dir jetzt aufhelfen?«
 
-Sie machten es ein zweites Mal. Diesmal setzte sie such auf ihn, ließ
+Sie machten es ein zweites Mal. Diesmal setzte sie sich auf ihn, ließ
 die Decke herabrutschen. Diesmal beugte sie sich zu ihm herunter, um ihn
 zu küssen, immer wieder. Diesmal schlossen sie ihre Augen erst ganz zum
 Schluss.
@@ -1119,7 +1119,7 @@ da!« Er fragte sich, wann sie endlich müde werden würde. 
 
 »Gibt es eine andere Frau?« fragte sie.
 
-Jan dachte an Kristina, er dachte die Kolleginnen, mit denen er
+Jan dachte an Kristina, er dachte an die Kolleginnen, mit denen er
 geflirtet hatte. Würde es etwas ändern, wenn er eine erfand? Würde sie
 ihn mehr hassen oder hätte sie dann ein anderes Ziel für ihrem Hass?
 Würde es die Sache einfacher machen für ihn?
@@ -1143,7 +1143,7 @@ und gesagt: »But wait another two hours before you clean up my room,
 please.«
 
 Nein, Jan hörte die Dusche laufen. Er war erleichtert, obwohl er nicht
-erleichtert sei durfte.
+erleichtert sein durfte.
 
 Er sah Annas Handy auf ihrem Nachttisch liegen. Er drückte eine Taste,
 das Display leuchtete auf. 8:23 Uhr. Noch mehr Erleichterung. Er hatte
@@ -1272,7 +1272,7 @@ umdrehte, war ihre Tür schon wieder geschlossen.
 
 Jan half Silvia beim Umzug, weil er sich schuldig fühlte. Sie war so
 krank, sie war so hilflos. Zuerst ging er auch noch ans Telefon, wenn
-sie anrief und verzweifelt war: »Der Waschmaschine hat hier alles unter
+sie anrief und verzweifelt war: »Die Waschmaschine hat hier alles unter
 Wasser gesetzt. Was soll ich jetzt machen?«
 
 Auch auf Skype blieben sie in Kontakt. Sie fragte ihn über seinen Tag,
@@ -1344,7 +1344,7 @@ immer nur Funktions-Shirts, Jeans und Birkenstocks. Jan lernte ihn
 kennen, als er an der Theke stand, sein Bier trank und in dem Moment
 einfach nur sein Selbstmitleid genießen wollte.
 
-Matthhew sagte: »You either need some sleep or some fun.«
+Matthew sagte: »You either need some sleep or some fun.«
 
 »Some fun sleep?«
 
@@ -1516,11 +1516,11 @@ Pillen von Matthew halfen ihm, wach zu bleiben, zwei oder dreimal in der
 Nacht mit ihn zu schlafen und dann wach neben ihr zu liegen, seine Hand
 auf ihrem Rücken, ihren Atem zu hören.
 
-Er fing an, sich einzureden: Morgen triffst Catalina nicht mehr, morgen
-triffst du Matthew nicht mehr. Morgen schläfst dich einmal richtig aus,
-und übermorgen gehst du dann um acht in die Arbeit. Sich auszuschlafen
-schaffte er, aber abends trank er wieder, traf Catalina wieder und ging
-sicher nicht vor dem frühen Nachmittag ins Büro.
+Er fing an, sich einzureden: Morgen triffst du Catalina nicht mehr,
+morgen triffst du Matthew nicht mehr. Morgen schläfst dich einmal
+richtig aus, und übermorgen gehst du dann um acht in die Arbeit. Sich
+auszuschlafen schaffte er, aber abends trank er wieder, traf Catalina
+wieder und ging sicher nicht vor dem frühen Nachmittag ins Büro.
 
 ---
 
@@ -1579,7 +1579,7 @@ Sie war zu teuer gewesen für ihn, aber mit dem Extra-Geld, das seine
 Firma ihn in Shanghai bezahlt hatte, hatte er sie leicht halten können.
 Jetzt musste er eigentlich raus, sich ein Ein-Zimmer-Loch suchen. Er
 trank immer noch, aber er hatte niemanden mehr, der ihm Pillen besorgte.
-Der Rauch seiner Zigaretten vermischte sich mit dem Rauch von Slvias
+Der Rauch seiner Zigaretten vermischte sich mit dem Rauch von Silvias
 Zigaretten, der sich in den Vorhängen und dem Sofa festgesetzt hatte.
 Jan schlief bis zwei Uhr nachmittags, schaffte es, erst um sieben Uhr
 abends die erste Flasche Wein aufzumachen, sah Fernsehen bis Mitternacht
