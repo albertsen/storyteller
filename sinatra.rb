@@ -17,7 +17,7 @@ get "/" do
 	else
 		{}
 	end
-	show :index, :title => "Jürgen Albertsen", :stories => stories
+	show :index, :title => "Jürgen Albertsen: Geschichten", :stories => stories
 end
 
 get "/stories/:story.:ext" do
