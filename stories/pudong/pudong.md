@@ -105,8 +105,8 @@ fand. Jan half ihr dabei, Immobilienanzeigen zu sichten, Makler
 anzuschreiben und bei den Besichtigungen die richtigen Fragen zu
 stellen. Als Silvia endlich umzog, schleppte Jan ihre Kartons, schloss
 ihren Fernseher an und telefonierte ihrem Hausmeister hinterher. Noch
-einen Monat später fragte Jans Chef auf während des Abteilunsgmeetings:
-»Wir haben ein Projekt in Shanghai. Wer hat Interesse?«
+einen Monat später fragte Jans Chef in einem Abteilungsmeeting: »Wir
+haben ein Projekt in Shanghai. Wer hat Interesse?«
 
 Jan meldete sich sofort.
 
