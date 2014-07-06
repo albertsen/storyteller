@@ -1,0 +1,15 @@
+#!/bin/bash
+
+INPUT=$1
+
+if [ -z "$INPUT" ] ; then
+	echo "Usage: $0 <input>"
+	exit 1
+fi
+
+OUTPUT=${INPUT%%.*}.md
+TEMP=$OUTPUT.temp
+
+pandoc -f html -t markdown -o $TEMP < $INPUT
+
+sed "s/^\\\\/---/g" < $TEMP > $OUTPUT

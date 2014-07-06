@@ -42,7 +42,7 @@ the Debaser next.«
 
 Sie lächelte nur und sagte: »I might.«
 
-Es war elf noch längst nicht dunkel. Das Debaser war eine Bar unter
+Es war elf und noch längst nicht dunkel. Das Debaser war eine Bar unter
 einer Hochstraße, die über einen der Kanäle führte, und hatte Sofas
 draußen stehen. Brian sagte, »I live right up there«, und deutete auf
 einen Häuserblock auf der anderen Seite vom Kanal. »Sometimes I just
@@ -54,7 +54,7 @@ nicht wieder zurück.
 
 Es wurde kalt. Jan und Brian gingen Richtung Gamla Stan und fanden eine
 Bar, die so voll war, dass sich die Gäste gegen die beschlagenen
-Scheiben drückten. Auf dem Weg zur Theke mussten sie uns durch eine
+Scheiben drückten. Auf dem Weg zur Theke mussten sie sich durch eine
 Gruppe Mädchen durchquetschen, vier oder fünf, alle über zehn Jahre
 jünger als sie. Natürlich sprach Brian sie an. Witze flogen hin und her,
 Gelächter überall. Brian bestellte einen Shot nach dem nächsten, legte
