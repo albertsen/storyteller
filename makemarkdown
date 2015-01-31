@@ -10,6 +10,9 @@ fi
 OUTPUT=${INPUT%%.*}.md
 TEMP=$OUTPUT.temp
 
-pandoc -f html -t markdown -o $TEMP < $INPUT
+echo "Converting $INPUT -> $OUTPUT"
 
+pandoc -f html -t markdown -o $TEMP < $INPUT
 sed "s/^\\\\/---/g" < $TEMP > $OUTPUT
+
+rm -f $TEMP
