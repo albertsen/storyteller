@@ -1,8 +1,5 @@
-Jürgen Albertsen
-
-**Pudong**
-
----
+Pudong
+======
 
 Als Jan aus Stockholm zurückkam, sagte Silvia: »Ich habe alle Tabletten
 geschluckt, die ich finden konnte. Das Schlafmittel, die Antibiotika.
