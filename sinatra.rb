@@ -10,7 +10,15 @@ ROOT = settings.root
 STORIES_DIR = "#{ROOT}/stories"
 STORIES_CACHE_DIR = "#{ROOT}/.cache/stories"
 
+%w{plotdevice.org www.plotdevice.org}.each do |h|
+	puts h
+	get '/', :host_name => h do
+  		redirect 'http://www.juergenalbertsen.de', 301
+	end
+end
+
 get "/" do
+	puts request
 	stories_file = "#{STORIES_DIR}/index.yaml"
 	stories = if File.exists?(stories_file)
 		YAML.load_file stories_file
