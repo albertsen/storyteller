@@ -11,7 +11,6 @@ STORIES_DIR = "#{ROOT}/stories"
 STORIES_CACHE_DIR = "#{ROOT}/.cache/stories"
 
 %w{plotdevice.org www.plotdevice.org}.each do |h|
-	puts h
 	get '/', :host_name => h do
   		redirect 'http://www.juergenalbertsen.de', 301
 	end
