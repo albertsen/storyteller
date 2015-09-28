@@ -8,7 +8,7 @@ Argentinien
 Lena wartete schon seit zwanzig Minuten, doch niemand wartete mit ihr.
 Autos preschten an ihr und der Haltestelle vorbei, durch die Pfützen dem
 Ortsschild entgegen. Die anderen Schüler aus ihrem Jahrgang hatten
-Smartphones, die ihnen sagen konnten, wenn der Bus ausfiel, Lena nur ein
+Smartphones, die ihnen sagen konnten, ob der Bus ausfiel, Lena nur ein
 altes Handy ohne Kamera.
 
 Ein alter weißer Mercedes kam die Straße entlang. Zuerst beachtete Lena
@@ -16,10 +16,9 @@ ihn nicht, ein Auto von vielen, aber er wurde immer langsamer und hielt
 schließlich direkt vor ihr an. Das Beifahrerfenster fuhr herunter, der
 Fahrer beugte sich über den Sitz und lugte hinaus. Er sagte: »Kein Bus
 heute. Irgendwas mit der Elektronik.« Es war Holger, ein Junge aus ihrem
-Jahrgang. Seine schwarzen Haare fielen ihm fast in die Augen. Er sah sie
-an, als müsste sie sofort eine Antwort parat haben.
+Jahrgang. Seine schwarzen Haare fielen ihm fast in die Augen.
 
-Sie könnte laufen. Es regnete, aber das machte nichts. Sie würde nass
+Lena könnte laufen. Es regnete, aber das machte nichts. Sie würde nass
 werden, es wäre nicht das erste Mal. Ihre Mutter konnte sie nicht
 anrufen und bitten, sie abzuholen. Um diese Zeit war sie schon längst
 betrunken.  — Und Johann? Der würde das Telefon im Stall nicht hören.
