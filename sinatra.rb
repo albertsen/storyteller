@@ -8,7 +8,6 @@ set :port, 8000
 
 ROOT = settings.root
 STORIES_DIR = "#{ROOT}/stories"
-STORIES_CACHE_DIR = "#{ROOT}/.cache/stories"
 
 %w{plotdevice.org www.plotdevice.org}.each do |h|
 	get '/', :host_name => h do
