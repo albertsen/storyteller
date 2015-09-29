@@ -134,10 +134,10 @@ einen Idioten.
 
 Natürlich hießen sie weder Leslie noch Joyce. So nannten sie sich nur
 für die Leute aus dem Westen. Heute nach dem vierten Bier hatten sie
-versucht, ihnen ihre richtigen Namen beizubringen. Sie hatten so laut
-gelacht, als Jan sie nachsprach, dass ihnen das Essen aus dem Mund
+versucht, Jan ihre richtigen Namen beizubringen. Sie hatten so laut
+gelacht, als er sie nachsprach, dass ihnen das Essen aus dem Mund
 spritzte. Jetzt war von der Heiterkeit nicht mehr viel zu spüren.
-Vielleicht hatten sie auch einfach nur getan, betrunken zu sein.
+Vielleicht hatten sie auch einfach nur so getan, betrunken zu sein.
 
 »Bewegung?« rief Bernhard. »Im Hotel ist doch ein Gym.« Er schüttelte
 den Kopf und schlug aufs Taxidach. Das war das Kommando einzusteigen,
@@ -172,7 +172,7 @@ Handy ans Ohr.
 
 Die Stadt war um diese Zeit ruhig genug, dass Jan ihre Stimme hören
 konnte, aber nur als Laut, nicht als Sprache, unterbrochen durch das
-Brummen der Autos, die ab und zu vorbeirauschten. Einer dieser Autos bog
+Brummen der Autos, die ab und zu vorbeirauschten. Eines dieser Autos bog
 ab und ließ die Frau passieren, aber dahinter kam ein Roller, einer
 dieser elektrischen, die nur leise surrten. Er sauste direkt vor ihren
 Füßen vorbei. Die Frau erschrak und trat ein Schritt zurück. Noch ein
@@ -180,7 +180,7 @@ Roller kam, ein Zweitackter diesmal, und statt auszuweichen, hupte der
 Fahrer nur. Die Frau erschrak wieder, machte noch einen Schritt, aber
 dieser Schritt lief dem Schritt davor zuwider. Sie stolperte, sie fiel.
 Ihr Handy schlitterte über den Asphalt. Sie schaffte es, mit den Händen
-den Aufprall abzufedern, aber sie landete flach auf den Bauch.
+den Aufprall abzufedern, aber sie landete flach auf dem Bauch.
 
 Zum Glück wurde es rot, zum Glück beachteten die meisten hier die Ampel.
 Jan hatte noch nicht grün, aber er blickte schnell nach links und rechts
@@ -252,7 +252,7 @@ much«, sagte sie.
 
 Sie zuckte zusammen, als Jan Deutsch sprach. Er wollte sagen, *ich kenne
 solche Telefonate,* *ich habe ganze Mittagspausen mit ihnen verbracht,*
-aber er stattdessen fragte er: »Was ist passiert?«
+aber stattdessen fragte er: »Was ist passiert?«
 
 »Kreislauf und Menschenmassen«, sagte sie. »Ein blöde Kombination.«
 
@@ -295,7 +295,7 @@ Jan schüttelte sie und nannte seinen Namen. Der Griff dauerte eine
 Sekunde länger als nötig. Sie gingen los. Sie schien zu humpeln, aber er
 brauchte nicht langsamer zu gehen.
 
-»Wie lange sind sie schon in der Stadt, wenn sie wissen, dass der Jetlag
+»Wie lange sind Sie schon in der Stadt, wenn Sie wissen, dass der Jetlag
 ewig ist?« fragte die Frau, die Anna hieß.
 
 »Fast vier Wochen.«
@@ -316,7 +316,7 @@ einer Stadt, die so groß ist wie diese.«
 
 Etwas klingelte. Anna fischte in ihrer Handtasche herum und zog ihr
 Handy heraus. Sie verdrehte die Augen und sagte, »Tut mir Leid.« Sie
-tippte etwas in Handy ein, während sie weitergingen. Viel zu schnell
+tippte etwas ins Handy ein, während sie weitergingen. Viel zu schnell
 tauchte schon das Hotel am Ende der Straße auf. Gleich nachdem sie ihre
 Nachricht verschickt hatte, bekam sie schon wieder eine. Jan langte in
 die Innentasche seines Jackets und zog ein Stück Papier heraus: Eine
@@ -381,7 +381,7 @@ gehen.«
 »Wenn wir bei deiner Schwester sind, verstehst du auch immer alles.«
 
 Silvia blies Rauch in Richtung Decke. Sie hatte ihren Blick von Jan
-abgewandt. Sie starrte in das Gesicht einer Puppe, die auf den Tisch
+abgewandt. Sie starrte in das Gesicht einer Puppe, die auf dem Tisch
 neben der Zigarettenschachtel saß, als wäre sie ihre Verbündete. Es war
 die einzige heile Puppe in diesem Zimmer. Silvia hatte schon seit
 Monaten aufgehört, an ihnen zu arbeiten.
@@ -425,7 +425,7 @@ nicht mehr anfassen, schon lange nicht mehr.
 
 ---
 
-Die Klimaanlage im Büro schaffte es nicht. Lieslie und Joyes Gesichter
+Die Klimaanlage im Büro schaffte es nicht. Leslie und Joyes Gesichter
 glänzten wieder. Sogar Bernhard hatte sein Jackett abgelegt. Er saß da
 mit gekreuzten Armen und hörte zu, was »die Chinesen« vortrugen. Wenn
 sie Bernhard etwas fragten, deutete er auf Jan und sagte: »He will be in
@@ -484,7 +484,7 @@ Sie hatten sich an einem Freitag kennengelernt. Damals mit Ende zwanzig
 verbrachten Jan und seine Freunde die Wochenenden noch wie zu
 Studententagen: In die Bar um elf, in den Club um eins, nach Hause um
 sieben. Mit einem Unterschied: Jetzt, da sie arbeiteten, hatten sie
-genug Geld, um vorher noch Essen zu gehen und dann ein Taxi zu nehmen.
+genug Geld, um vorher noch essen zu gehen und dann ein Taxi zu nehmen.
 
 Irgendwann war Silvia mit dabei, mitgebracht von einem aus der Gruppe,
 mit dem Jan nur ein paar Sätze gewechselt hatte und den er ein paar
@@ -532,7 +532,7 @@ hat, ist gefährlich.«
 
 Jan zögerte. Zusammenziehen nach nur einem halben Jahr?
 
-Silvia sagte: »Du meinst es nicht ernst.
+Silvia sagte: »Du meinst es nicht ernst mit mir.«
 
 »Na klar meine ich es ernst.«
 
@@ -571,7 +571,7 @@ müde.«
 »Das hat dich doch sonst nicht gestört.«
 
 Sie sagte, »Geh du nur, hab deinen Spaß« und zuerst glaubte Jan ihr. Auf
-der Taxifahrt in den Club sagte Christoph, »Bald bist auch nicht mehr
+der Taxifahrt in den Club sagte Christoph, »Bald bist du auch nicht mehr
 dabei«, aber Jan lachte nur über ihn. Er tanzte eben allein, und wenn
 ein Mädchen mit ihm flirten wollte, sagte er: »Ich habe eine Freundin.«
 
@@ -591,9 +591,9 @@ Nacht. Ihre Augen blitzen in der Lightshow. Sie blieben bis sechs Uhr,
 wie damals im Sommer, nur dass es immer noch dunkel war jetzt, als sie
 nach Hause gingen.
 
-Am nächsten Morgen wachten sie beide erst um zwei Uhr nachmittags auf.
-Jan tastete nach ihr, ein Morgen nach einem Exzess war ein guter Morgen.
-Das Glück der Erschöpfung würde sie nicht loslassen.
+Sie schliefen bis zwei Uhr nachmittags. Als Jan aufwachte, tastete er
+nach ihr, ein Tag nach einem Exzess war ein guter Tag. Das Glück der
+Erschöpfung würde sie nicht loslassen.
 
 Siliva schreckte auf.
 
@@ -606,7 +606,7 @@ ihrem Ohr herum. Sie fing an zu weinen, sie fing an zu schreien: »Ich
 hör nichts mehr, ich hör nichts mehr.«
 
 Beide kannten sie die Geschichte von Hörstürzen. Einer von Jans Kollegen
-war sechs Monate krankgeschrieben gewesen deswegen und konnte keiner
+war deswegen sechs Monate krankgeschrieben gewesen  und konnte keiner
 Unterhaltung mit mehr als einer Person folgen. Jan und Silvia rasten ins
 Krankenhaus. Sie kam sofort dran, die Ärzte wussten, was zu tun war. Sie
 schlossen Silvia an Infusionen an, verdünnten ihr Blut. Sie fragten:
@@ -656,7 +656,7 @@ Natürlich war er es, aber er zögerte, es zuzugeben. Er wusste noch nicht
 genau, welches Spiel sie spielten.
 
 »Es gibt ja nur zwei Gründe irgendwo hin zu gehen«, sagte Anna, »die
-Pflicht oder die Liebe.
+Pflicht oder die Liebe.«
 
 »Die Liebe ist es sicher nicht.«
 
@@ -677,7 +677,7 @@ Hand dann leer wieder heraus.
 
 ---
 
-Die ältesten Gebäude fanden sie am Bund: Bauten aus der Kolonialzeiten.
+Die ältesten Gebäude fanden sie am Bund: Bauten aus der Kolonialzeit.
 Eine Promenade säumte ein Ufer des Huangpu. Die Feuchtigkeit vom Wasser
 drückte die Hitze erst recht empor. Am anderen Ufer erhob sich die
 Skyline von Pudong. Jan und Anna waren stehengeblieben, um zu staunen.
@@ -733,7 +733,7 @@ hinterher, das wegrannte, angespritzt wurde von ihren Freunden, die sich
 wieder in Bewegung setzen.
 
 Das Wasser lief an Annas Wangen herab und in ihren Ausschnitt. Das Weiß
-ihres Stoff wurde durchsichtig. Jan wusste nicht, wann er jemanden das
+ihres Stoffs wurde durchsichtig. Jan wusste nicht, wann er jemanden das
 letzte Mal so glücklich gesehen hatte. Jetzt wollte er nicht nur ihr
 Hand halten, sondern sie auch küssen.
 
@@ -766,9 +766,9 @@ Sie fragte noch einmal: »Willst du?«
 
 Vielleicht wäre Jan sich noch sicherer gewesen, wenn er mit Kristina,
 wenn er mit irgend einer anderen Frau geschlafen hätte. So oft hatte er
-Silvia schon vorgeschlagen, zu einen anderen Arzt zu gehen, einen, der
+Silvia schon vorgeschlagen, zu einem anderen Arzt zu gehen, einem, der
 nicht nur ein Mittel verschrieb, damit sie trotz dem Pfeifen, das sie
-hörte, schlafen konnte, sondern einen Arzt, der dafür da war zu reden.
+hörte, schlafen konnte, sondern einem Arzt, der dafür da war zu reden.
 
 »Ja«, sagte er. »Ich will. Ich will das hier nicht mehr.«
 
@@ -819,7 +819,7 @@ sie. Als Anna auf Toilette musste, sagte er: »Ich komme mit.«
 »Nein, du bestellst noch zwei Wodka-Lemon.«
 
 Um Jan herum würfelten sie weiter. Er hatte weder eine Ahnung, was die
-Drinks hier kosteten noch wievel er dem Barkeeper in Hand drückte. Einer
+Drinks hier kosteten noch wievel er dem Barkeeper in Hand drückte. Eine
 der Französinnen versuchte, mit ihm zu flirten, aber er sagte wieder:
 »She’s my girl.« Die Französin wusste nicht, wovon er redete, also
 kämpfte er sich aus der Gruppe frei und ging Richtung Toilette. Auf dem
@@ -840,9 +840,9 @@ weiter gemacht. Jan gehörte in diesem Moment nicht mehr dazu. Gäste
 rempelten ihn an, er verschüttete etwas aus eines der Gläser, die er
 immer noch in der Hand hielt. Irgendwo in dem Gewühl huschte die
 Französin an ihm vorbei. Er nippte aus einem der Gläser und überlegte,
-was er tun sollte. Er konnte die Drinks einfach auf eine der Stehtische
+was er tun sollte. Er konnte die Drinks einfach auf einen der Stehtische
 stellen und verschwinden. Anna kannte die Nummer seines Zimmers nicht,
-nur die seines Handys. Sie reiste morgen übermorgen ab. 
+nur die seines Handys. Sie reiste übermorgen ab. 
 
 Jan versuchte, der Französin mit seinen Blicken zu folgen, da rief ihm
 eine Stimme ins Ohr:
@@ -866,7 +866,7 @@ von halb zehn bis sieben. Jeden Mittwoch traf er Christoph und betrank
 sich. Es war ein Kompromiss, den er erreicht hatte, ohne dass sie
 darüber gesprochen hätten.
 
-Vor gut zwei Jahren hatte Silvia den Puppen angefangen. Die waren
+Vor gut zwei Jahren hatte Silvia mit den Puppen angefangen. Die waren
 manchmal einen halben Meter groß und saßen auf einem Regal. Jan hatte
 Angst vor ihnen. Ihm war klar, was sie bedeuteten. Immer wieder erzählte
 Silvia von ihrer Schwester, die ihr Fotos von ihren Töchtern schickte.
@@ -920,11 +920,11 @@ verwandelte. Warum fing er an zu reisen? Weil er sah, wie Silvias Glück
 in der Isolation immer brüchiger wurde, weil in letzter Zeit die Abende
 immer seltener wurden, an denen sie an ihren Puppen arbeitete und sie
 immer öfter in einer Decke eingewickelt auf den Fernseher starrte, ohne
-das Programm zu wechseln? Weil Silvia immer öfters Wein trank, manchmal
+das Programm zu wechseln? Weil Silvia immer öfter Wein trank, manchmal
 sogar selbst eine Flasche aufmachte, ohne dass sie dann Sex hatten
 danach? Bröckelte Silvias Illusion, doch eine Art von Leben zu haben,
-jetzt da Jan unterwegs war und sie immer wieder Nächte und Nächte allein
-verbringen musste?
+jetzt, da Jan unterwegs war und sie immer wieder Nächte und Nächte
+allein verbringen musste?
 
 Früher hatte er Geschäftsreisen immer abgelehnt, aus demselben Grund,
 warum er keine Einladungen zu Partys angenommen hatte: Aus Rücksicht auf
@@ -947,7 +947,7 @@ Irgendwie hatten sie Sex. An Jans Knöchel hing noch seine Hose, Anna
 stieß sich den Kopf an der Wand. Sie waren zu betrunken, aber es
 funktionierte. Sie klammerte sich so eng an ihn, dass er ihr nicht in
 die Augen sehen konnte. An ein Kondom hatten sie beide nicht gedacht.
-Über sie brannte das Deckenlicht des Zimmers. Es war eine Gier, ein
+Über ihnen brannte das Deckenlicht des Zimmers. Es war eine Gier, ein
 Kampf, ein Ausschwitzen.
 
 Hinterher lag Jan neben Anna und war immer noch zu betrunken. Unter dem
@@ -973,16 +973,17 @@ ihren Rücken.
 Sie legte ihre Stirn an seine Schulter. Vielleicht war es besser, wenn
 sie einander nicht ansahen. Jan wollte nicht in Versuchung geraten, sich
 ein Leben mit ihr vorzustellen. Auf ihrem Nachttisch sah er ihr Handy
-liegen. Wie spät war es jetzt in Deutschland?
+liegen. Ob ihr Mann schon wieder geschrieben hatte? Wie spät war es
+jetzt in Deutschland?
 
 »Machst du das Licht aus?« fragte Anna.
 
 Ohne sie loszulassen, tastete Jan nach dem Hauptschalter. Er war
 natürlich an derselben Stelle wie in seinem Zimmer. Ab dem Moment, als
 das Licht ausging, glühte die Stadt durch die Fensterfront. Dort hinten
-waren sie vorhin gewesen, dort hinten strahlte strahlten die Türme von
-Pudong, brütete immer noch diese unglaubliche Hitze, die hier drinnen
-nicht mehr wichtig war.
+waren sie vorhin gewesen, dort hinten strahlten die Türme von Pudong,
+brütete immer noch diese unglaubliche Hitze, die hier drinnen nicht mehr
+wichtig war.
 
 Jan wollte jetzt nicht einschlafen, er wollte nicht, dass es schon
 vorbei war.
@@ -1020,7 +1021,7 @@ zu küssen, immer wieder. Diesmal schlossen sie ihre Augen erst ganz zum
 Schluss.
 
 Danach blieb sie auf ihm sitzen und presste ihre Wange an seine Brust.
-Erspürte ihren Atem auf seiner Haut. Sein Schwanz schrumpfte und glitt
+Er spürte ihren Atem auf seiner Haut. Sein Schwanz schrumpfte und glitt
 langsam aus ihr heraus. Er sollte sie von sich hinunterschieben und aus
 dem Zimmer verschwinden. Er durfte nicht einschlafen, er durfte nicht
 mit ihr aufwachen.
@@ -1029,7 +1030,7 @@ mit ihr aufwachen.
 
 »Vor meinem alten Leben.«
 
-»Hast du jetzt ein Neues?«
+»Hast du jetzt ein neues?«
 
 »Ich warte noch darauf, dass es anfängt.«
 
@@ -1050,10 +1051,10 @@ Weinte sie? Jan spürte, wie er wieder einschlief, ohnmächtig wurde fast,
 und konnte sich nicht dagegen wehren.
 
 Das nächste Mal, als er aufwachte, hatte er sein Gesicht im Kissen. Er
-musste pinkeln und trinken. Er schleppte er sich auf Toilette. Er machte
-kein Licht: Um Anna nicht zu stören, um sich selbst nicht im Spiegel
-sehen zu müssen. Als er zurück ins Zimmer kam, sah er sie im Bett
-liegen, halb unter, halb auf der Decke. In dem Licht der Stadt
+musste pinkeln und trinken. Er schleppte sich auf die Toilette. Er
+machte kein Licht: Um Anna nicht zu stören, um sich selbst nicht im
+Spiegel sehen zu müssen. Als er zurück ins Zimmer kam, sah er sie im
+Bett liegen, halb unter, halb auf der Decke. In dem Licht der Stadt
 betrachtete er ihren Körper. Er könnte seine Kleidung zusammensuchen und
 jetzt gehen. Sie kannte seine Zimmernummer immer noch nicht. Ihr Telefon
 lag auf dem Nachtschrank.
@@ -1065,7 +1066,7 @@ haben, aber er hätte sie trotzdem so gerne aufgeweckt, so gerne noch
 einmal ihre Augen gesehen und ihre Stimme gehört.
 
 Er versuchte, sich wachzuhalten, sie zumindest zu betrachten, wenn er
-sie schon nicht haben konnte aber irgendwann gab er auf.
+sie schon nicht haben konnte, aber irgendwann gab er auf.
 
 ---
 
@@ -1161,7 +1162,7 @@ setzte sich neben ihn. Er schämte sich: Dafür dass er so stank und sie
 so gut roch. Dafür, dass er das Handy in der Hand hielt. Sie nahm es ihm
 ab.
 
-»Na klar bis du neugierig.«
+»Na klar bist du neugierig.«
 
 »Deine Kinder.«
 
@@ -1271,8 +1272,8 @@ kennengelernt?«
 
 Irgendwann ging er nicht mehr ans Telefon, wenn sie anrief, irgendwann
 antwortete er nur noch das Nötigste auf Skype. Ihr beim Aufbauen ihres
-Regals zu helfen, die sie sich endlich gekauft hatte, verschob er von zu
-Woche.
+Regals zu helfen, die sie sich endlich gekauft hatte, verschob er von
+Woche zu Woche.
 
 »Wenn du keine Lust dazu hast, dann sag es.«
 
@@ -1308,7 +1309,7 @@ dann kurz in ein Restaurant, in dem man zahlen musste, bevor der Kellner
 überhaupt daran dachte, die Bestellung an die Küche weiterzugeben. Sie
 schlangen etwas Öliges herunter und gingen zurück ins Büro. Um sieben
 wurde die Klimaanlage ausgestellt, aber in dem kleinen Büro, das sie
-sich zu sechs teilten, kämpfte sie sowieso vergebens.
+sich zu sechst teilten, kämpfte sie sowieso vergebens.
 
 Jan hatte keinen Grund, auf eine Nachricht von Anna zu warten und war zu
 stolz, selbst eine zu schreiben. Facebook und Twitter waren gesperrt,
@@ -1423,7 +1424,7 @@ Jan versuchte, Catalina nicht jede Nacht zu sehen. Er brauchte den Sex,
 aber ebenso brauchte er es, dass sie hinterher nur neben ihm lag und er
 seine Hand auf ihren Rücken legen konnte. Er zahlte ihr extra dafür.
 Nach der ersten Nacht bat er sie nicht mehr, sich zu duschen. Er fragte
-sich, ob es woanders tat, bevor sie den nächsten Kunden hatte.
+sich, ob sie es woanders tat, bevor sie den nächsten Kunden hatte.
 
 Wenn sie gegangen war, saß er oft noch stundenlang auf, trank, rauchte,
 suchte im Internet nach Anna und schrieb manchmal E-Mails an Silvia, die
@@ -1457,7 +1458,7 @@ gefragt bei den Chinesen, die lieber mit Frauen aus dem Westen
 schliefen, und bei Männern aus dem Westen, die die Chinesinnen satt
 hatten.
 
-Irgendwann fingen man an, direkt gegenüber von Jans Apartment noch eines
+Irgendwann fingen sie an, direkt gegenüber von Jans Apartment noch eines
 dieser Glas-und-Stahl-Monstren hochzuziehen, keine zehn Meter von seinem
 Fenster entfernt. In Shanghai arbeitete man 24/7. Nachts beleuchteten
 Scheinwerfer die Baustelle, die heller waren als die Sonne tagsüber.
@@ -1479,7 +1480,7 @@ und erbrach sich, heiß und schmerzhaft. Danach fühlte er sich zwar
 besser, aber konnte er jetzt noch ins Büro gehen? War er nicht krank?
 Konnte er ihnen nicht erzählen, ein Fieber hätte ihn so betäubt, dass er
 erst jetzt aufgewacht war und einfach nicht die Kraft hatte, ins Büro zu
-kommen? Er rief Leslie an. Der sagte, »Get well soon«. Jan redete sich
+kommen? Er rief Leslie an. Der sagte: »Get well soon«. Jan redete sich
 ein, dass es in diesem Klima doch glaubwürdig sein musste, dass man als
 Europäer irgendwann zusammenbrach.
 
@@ -1503,11 +1504,11 @@ unter Kontrolle. Er wurde ja noch einmal am Tag nüchtern.
 Er bat Catalina jetzt oft, erst dann zu kommen, wenn sie schon bei allen
 anderen Kunden gewesen war und bis zum Morgen bei ihm zu bleiben. Neue
 Pillen von Matthew halfen ihm, wach zu bleiben, zwei oder dreimal in der
-Nacht mit ihn zu schlafen und dann wach neben ihr zu liegen, seine Hand
+Nacht mit ihm zu schlafen und dann wach neben ihr zu liegen, seine Hand
 auf ihrem Rücken und ihren Atem zu hören.
 
 Er fing an, sich einzureden: Morgen triffst du Catalina nicht mehr,
-morgen triffst du Matthew nicht mehr. Morgen schläfst dich einmal
+morgen triffst du Matthew nicht mehr. Morgen schläfst du dich einmal
 richtig aus, und übermorgen gehst du dann um acht in die Arbeit. Sich
 auszuschlafen schaffte er, aber abends trank er wieder, traf Catalina
 wieder und ging sicher nicht vor dem frühen Nachmittag ins Büro.
@@ -1566,7 +1567,7 @@ hätten sie ihm keine zweite Chance gegebeben.
 
 Jan kehrte in die Wohnung zurück, in der er mit Silvia gewohnt hatte.
 Sie war eigentlich zu teuer für ihn. Mit dem Extra-Geld, das seine Firma
-ihn in Shanghai bezahlt hatte, hatte er sie leicht halten können, doch
+ihm in Shanghai bezahlt hatte, hatte er sie leicht halten können, doch
 wie lange würde er sie sich jetzt noch leisten können? Er trank immer
 noch, aber er hatte niemanden mehr, der ihm Pillen besorgte. Der Rauch
 seiner Zigaretten vermischte sich mit dem Rauch von Silvias Zigaretten,
@@ -1578,12 +1579,12 @@ immer noch im Internet, aber auch ohne Zensur fand er sie so wenig, wie
 er Silvia fand.
 
 Christoph schrieb ihm: »Ich weiß, dass du wieder da bist. Ich versuche,
-nicht beleidigt zu sein, weil du dich nicht gemeldet hast Was ist in
+nicht beleidigt zu sein, weil du dich nicht gemeldet hast. Was ist in
 Shanghai passiert?« Jan löschte die Mail, ohne ihm zu antworten.
 
 ---
 
-Eines nachts nach zwei Flaschen Wein schrieb Jan an Matthew: »I never
+Eines nachts, nach zwei Flaschen Wein schrieb Jan an Matthew: »I never
 got round to go up one of those towers of Pudong and take a picture.
 Could you? At night?«
 
@@ -1602,13 +1603,13 @@ Anna und schrieb:
 
 »Du hast Recht — nichts Majestätisches von so weit oben, aber mit dir
 wäre es anders gewesen. Jetzt bin ich zurück in München und vielleicht
-nicht weg von dir. Sicher gibt es auch hier etwas zu erkunden?«
+nicht weit weg von dir. Sicher gibt es auch hier etwas zu erkunden?«
 
 Jan ließ sein Telefon nicht aus den Augen. Er trank und trank. Manchmal
 zwang er sich dazu, sein Selbstmitleid so zu steigern, dass er in Tränen
 ausbrach. Er suchte im Internet nach Fotos aus dem Club 88 und sah sie
 sich stundenlang an. So gerne hätte er ein Bild von Anna gehabt, aber er
-zu beschäftigt gewesen, sie zu betrachten, als dass er sie hatte
+war zu beschäftigt gewesen, sie zu betrachten, als dass er sie hatte
 fotografieren wollen.
 
 Nach zwei Tagen antwortete sie: »Ich habe versucht, auf dem Foto unser
@@ -1618,7 +1619,7 @@ langen Weg vor sich. Manchmal denke ich an dich, aber ich werde dir
 nicht sagen, wo ich bin. Ich hoffe, es geht dir gut.«
 
 In dieser Nacht zwang Jan sich dazu, nach einer Flasche Wein aufzuhören.
-Es war einer der längsten Nächste seines Lebens.
+Es war eine der längsten Nächte seines Lebens.
 
 ---
 
