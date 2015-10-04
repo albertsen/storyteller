@@ -120,7 +120,7 @@ Arbeit gewechselt, eine gefunden im Dorf, und muss nicht mehr montags
 morgen um vier den Zug nehmen und kommt nicht mehr erst freitags um
 Mitternacht zurück? Aber hättest du es mir nicht gesagt? Hättest du es
 mir nicht leichter gemacht, wenn du gekonnt hättest? »Er ist jetzt die
-ganze Woche da, es geht nicht mehr« anstatt »Ich kann mich nicht mehr
+ganze Woche da, es geht nicht mehr« anstatt »Ich kann dich nicht mehr
 sehen«?*
 
 *Ich denke an unsere Nachmittage, an deinen Körper, unsere Gespräche, an
@@ -1350,7 +1350,7 @@ Wasser zu halten und selbst dann: Irgendwann spült einen der Kanal in
 den Fluss. Der ist fast genauso schnell, aber noch viel breiter… Ich
 wurde sofort mitgerissen. Ich bin keine gute Schwimmerin, aber
 wahrscheinlich hätte es mir auch nichts geholfen. Ich war hilflos. Mein
-Kleid sog sich sofort voller Wasser, wickelte ich um meine Beine. Ich
+Kleid sog sich sofort voller Wasser, wickelte sich um meine Beine. Ich
 verlor völlig die Orientierung. Alles war grün: Das Wasser, die Bäume
 über mir. Es war nur ein Zufall, dass ich überlebte. Ich prallte gegen
 etwas und hatte den Reflex, mich festzuklammern. Ich schnappte nach
@@ -1373,8 +1373,8 @@ Geschichte erzählen, vielleicht das erste Mal in ihrem Leben.
 nicht schwer, zum Haus zurückzufinden, ich musste ja nur kanalaufwärts
 gehen. Aber sie wissen ja vielleicht: Es gibt keinen Weg, der direkt am
 Kanal entlang führt. Ich musste mich also also irgendwie durchschlagen.
-Ich ging den Weg, der zur Straße führt, und bog dann irgendwann ungefähr
-in einen Pfad in die richtige Richtung ab. Wahrscheinlich wäre ich
+Ich ging den Weg, der zur Straße führt, und bog dann irgendwann  in
+einen Pfad ungefähr in die richtige Richtung ab. Wahrscheinlich wäre ich
 schneller gewesen, wenn ich einfach bis zur Straße gegangen wäre, dort
 hätte ich mich auf jeden Fall wieder ausgekannt. So habe ich wieder Zeit
 verloren. Und ich hatte doch keine Zeit. — Die letzten paar hundert
@@ -1387,18 +1387,18 @@ heraus. Ich rannte sofort zum Ufer. Keine Juliane. Ich war vollkommen
 erschöpft. Ich weinte. Ich dachte, sie wäre einfach verschwunden, hätte
 mich im Stich gelassen. Ich rannte zurück zum Haus. Vielleicht war sie
 da, am Telefon. Hatte die Feuerwehr gerufen. Aber ich fand nur meine
-Mutter am Küchentisch sitzen. Sie hatte geschlafen, als Juliane ich uns
-gestritten haben, und saß da und trank ihren Tee wie jeden Nachmittag.
-›Wo ist Juliane?‹ fragte ich. — ›War sie hier?‹, fragte sie. ›Ich habe
-sie so lange nicht mehr gesehen… Habt ihr euch gestritten.‹ — Ich
-antwortete nicht und stürmte wieder hinaus. Ich durchsuchte noch einmal
-den ganzen Garten, ich rief nach Juliane. Ich ging sogar auf unsere
-Lichtung. Nichts. Ich weiß nicht, warum ich so panisch war. Vielleicht
-ahnte ich etwas. Hätte ich wirklich geglaubt, dass sie Hilfe gerufen
-hätte, hätte ich einfach gewartet, bis die Feuerwehr auftauchte. Ich
-ging ins Haus zurück. Ich wusste, dass es ein Fehler war, aber ich rief
-bei den Bergmanns an. Ich hoffte so sehr, dass sie an Telefon ging, aber
-statt dessen meldete sich Karl.«
+Mutter am Küchentisch sitzen. Sie hatte geschlafen, als Juliane und ich
+uns gestritten haben, und saß da und trank ihren Tee wie jeden
+Nachmittag. ›Wo ist Juliane?‹ fragte ich. — ›War sie hier?‹, fragte sie.
+›Ich habe sie so lange nicht mehr gesehen… Habt ihr euch gestritten.‹ —
+Ich antwortete nicht und stürmte wieder hinaus. Ich durchsuchte noch
+einmal den ganzen Garten, ich rief nach Juliane. Ich ging sogar auf
+unsere Lichtung. Nichts. Ich weiß nicht, warum ich so panisch war.
+Vielleicht ahnte ich etwas. Hätte ich wirklich geglaubt, dass sie Hilfe
+gerufen hätte, hätte ich einfach gewartet, bis die Feuerwehr auftauchte.
+Ich ging ins Haus zurück. Ich wusste, dass es ein Fehler war, aber ich
+rief bei den Bergmanns an. Ich hoffte so sehr, dass sie an Telefon ging,
+aber statt dessen meldete sich Karl.«
 
 »Ihr Mann.«
 
@@ -1490,7 +1490,7 @@ wurde oder eine Liebe zu verlieren, weil die Welt gegen sie war.
 
 Am Montag ging mein Flug, in sechs Tagen. Ich war fertig mit dem Haus.
 Die Möbel hatte ich zum Sperrmüll gebracht, die Räume gefegt, mein
-Werkzug im VW Bus verstaut. Nur meine Matratze lag noch in dem Zimmer
+Werkzeug im VW Bus verstaut. Nur meine Matratze lag noch in dem Zimmer
 unter dem Dach. Am Samstag würde Peter Bergmann kommen. »Ich will die
 Übergabe nicht abends machen«, hatte er gesagt. »Ich brauche dafür
 Tageslicht. Ich kann keinen Urlaub nehmen. Vor dem Wochenende wird das
@@ -1501,7 +1501,7 @@ Reiseführer über Australien, ein paar billige Krimis. Jeden Morgen ging
 ich laufen. Ich müsste das Klettern trainieren, eine halbe Stunde
 südlich gab es ein paar Felsen, aber meine Ausrüstung war immer noch bei
 Marek, der zwar protestiert, aber sie trotzdem abgeholt hatte, und ohne
-sie war ich nicht verrückt genug, es zu versuchen. Statt dessen saß ich
+sie war ich nicht verrückt genug, es zu versuchen. Stattdessen saß ich
 auf der Terrasse, las und ging ab und zu zum Kanal, um meine Füße
 hineinzuhalten. Manchmal sah ich Hanna Seidel am Ufer stehen, grau und
 schwarz, dort, wo ihr Grundstück auf das Wasser traf. Ich war versucht
@@ -1587,7 +1587,7 @@ manchen Monat fast soviel Geld verdiente wir er.
 »Vielleicht bleibe ich zu Haus und passe auf Kinder auf!« Ich wusste,
 dass er nicht scherzte.
 
-Ich erzählte von den Blue Mountains, vom der Reise, die 48 Stunden
+Ich erzählte von den Blue Mountains, von der Reise, die 48 Stunden
 dauern würde, weil ich es mir anders nicht leisten konnte. Als er
 fragte, »Kommst du zurück?«, sagte ich: »Ich weiß es nicht.«
 
