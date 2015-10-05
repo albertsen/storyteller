@@ -1,7 +1,7 @@
 Argentinien
 ===========
 
-**- 1 -**
+->**- 1 -**<-
 
 ---
 
@@ -232,7 +232,7 @@ Holger irgendwann sagte: 
 
 ---
 
-**- 2 -**
+->**- 2 -**<-
 
 ---
 
@@ -1029,8 +1029,6 @@ Stallmauer gelehnt.
 
 ---
 
----
-
 In der Nacht vor Timos Tod wehte ein Wind — nicht so stark wie während
 der Stürme des Winters, aber stark genug, dass Lena ihn heulen hörte,
 als sie aus Johanns Bett zurück ins Nähzimmer schlich. Johann wusste
@@ -1093,7 +1091,7 @@ endlich einschlief, legte sie eine Decke über ihn.
 
 ---
 
-**- 3 -**
+->**- 3 -**<-
 
 ---
 
@@ -1336,7 +1334,7 @@ dass er endlich einmal wieder in den Wald kam. Balko war das Ziel seines
 Willens, und als Lena direkt in Johann Augen blickte, sah sie: auch das
 Ziel einer Wut.
 
- Johann kam immer näher, seine Schritte so viel lauter als in den
+Johann kam immer näher, seine Schritte so viel lauter als in den
 letzten Wochen, in denen er nur mit Socken über den Teppich geschlichen
 war. In seiner Faust hielt er ein Messer, die Klinge nach vorne
 gerichtet. Es war das Küchenmesser, das Lena auf der Arbeitsplatte hatte
