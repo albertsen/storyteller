@@ -1,7 +1,7 @@
 Argentinien
 ===========
 
-->**- 1 -**<-
+**- 1 -**
 
 ---
 
@@ -38,7 +38,7 @@ mochte.
 
 Sie stieg ein. Holger war kaum größer als sie und so schmächtig. Wie er
 hinter dem Steuer saß, die Schultern nach vorne fallend, wie er sie
-ansah, wirkte er, als wäre er viel zu jung zum fahren — als hätte er das
+ansah, wirkte er, als wäre er viel zu jung zum Fahren — als hätte er das
 Auto von seinem Vater geklaut, einzig um Lena vor dem Regen zu retten.
 Er trug wie immer seinen Parka, darunter einen Kaputzenpulli.
 
@@ -89,8 +89,8 @@ ahnen können, dass seine Eltern arbeiteten und seine Schwester
 Leichtathletik trainierte. Sie waren allein im Haus. Im Kühlschrank gab
 es noch Nudeln.
 
-Holgers Zimmer unter dem Dach war vollgestopft Platten. Echtes Vinyl.
-Sie füllten nicht nur ein Regal, das sich über eine ganze Wand
+Holgers Zimmer unter dem Dach war vollgestopft mit Platten. Echtes
+Vinyl. Sie füllten nicht nur ein Regal, das sich über eine ganze Wand
 erstreckte, sondern stapelten sich auch auf dem Boden, auf dem Sofa.
 Lena kannte niemand außer ihm, der überhaupt welche besaß. 
 
@@ -232,7 +232,7 @@ Holger irgendwann sagte: 
 
 ---
 
-->**- 2 -**<-
+**- 2 -**
 
 ---
 
@@ -481,7 +481,7 @@ sogar bei diesem Wetter mit dem Fahrrad kam, den ganzen Weg aus der
 Stadt, weil ihre Mutter Pferde für Zeitverschwendung hielt und sie nicht
 herfahren wollte. Jeden Morgen trug sie Zeitungen aus, um sich die
 Reitstunden leisten zu können. Jede Zerbrechlichkeit, jede Traurigkeit,
-verschwand in dem Augenblick, in dem im Sattel saß.
+verschwand in dem Augenblick, in dem sie im Sattel saß.
 
 Und dann war da natürlich auch noch Frau Kuhn, deren Fußgelenk wieder
 geheilt war. Sie war die einzige Schülerin Johanns über zwanzig, über
@@ -498,16 +498,16 @@ gerade Unterricht gab. Sie kamen manchmal erst um neun Uhr abends und
 sagten: »Was meinen Sie mit ›Zu spät‹? Es ist doch noch fast zwei
 Stunden hell.« Manche mäkelten sogar am Futter herum.
 
-Lena wusste nicht, ob die Stallboxmieter kündigten und Johann sie
+Lena wusste nicht, ob die Stallboxmieter kündigten oder Johann sie
 rauswarf. Er hatte sie noch nie gemocht. Sogar mit denjenigen, die ihm
 keinen Ärger machten, war er unzufrieden gewesen: »Sie sollen sich
 lieber ein Auto kaufen, wenn sie angeben wollen. Etwas, das nicht lebt.«
 
 Johann konnte besser mit Kindern umgehen als mit Erwachsenen. Seine
-Schüler liebten ihnen, sogar die ältere der Brodersen-Schwestern, die
-oft genug vergaß, dass sie das Reiten hasste, wenn sie erst einmal im
-Sattel saß. Sie gehorchten ihm, weil er sie ernst nahm. Er musste nicht
-streng sein, weil er sie Fehler machen ließ. Manchmal gab er eine ganze
+Schüler liebten ihn, sogar die ältere der Brodersen-Schwestern, die oft
+genug vergaß, dass sie das Reiten hasste, wenn sie erst einmal im Sattel
+saß. Sie gehorchten ihm, weil er sie ernst nahm. Er musste nicht streng
+sein, weil er sie Fehler machen ließ. Manchmal gab er eine ganze
 Reitstunde lang keine einzige Anweisung.
 
 ---
@@ -538,7 +538,7 @@ oder geritten werden: Die Geduld hatten sie von einander gelernt.
 
 Da war Juno der Wilde. Er ließ nicht nur die Fehler seiner Reiter zu,
 sondern machte auch selbst welche. Johann traute ihm nur Schüler zu, die
-einem Pferd widersprechen konnten. Vicki ritt lieber auf ihn als auf
+einem Pferd widersprechen konnten. Vicki ritt lieber auf ihm als auf
 Balko: »Ich will nicht, dass mir jemand Vorschriften macht, also will
 ich auch nicht, dass sich mein Pferd welche machen lässt.«
 
@@ -563,10 +563,10 @@ Als Timo ins Haus kam, sagte er zu ihr nur »Hallo Lena«. Er brachte
 seine Sachen nach oben in sein Zimmer und war so schnell wieder unten,
 dass er sie unmöglich hatte auspacken können.
 
-Ab diesem Moment an verbrachte er fast jede wache Minute auf den Koppeln
-oder im Stall. Wenn er sich einmal in seinem Zimmer aufhielt, spielte er
-kaum noch mit Lego oder seinen Autos. Er hatte einen iPod jetzt und
-Bücher, die nicht nur von Pferden handelten, sondern auch von
+Von diesem Moment an verbrachte er fast jede wache Minute auf den
+Koppeln oder im Stall. Wenn er sich einmal in seinem Zimmer aufhielt,
+spielte er kaum noch mit Lego oder seinen Autos. Er hatte einen iPod
+jetzt und Bücher, die nicht nur von Pferden handelten, sondern auch von
 Großstädten.
 
 Er striegelte, er putzte, er half Johann beim reparieren des Stalldachs.
@@ -829,10 +829,9 @@ Johann schon eingeschlafen war, wenn Lena aus dem Badezimmer kam, und
 sich zu ihm legte.
 
 Morgens, noch in der Dunkelheit, tasteten sie nach einander. Manchmal
-flüsterte Johannes, »Bist du wach?«, schüchtern fast. Lena hatte
-härteren, präziseren Sex von ihm erwartet, aber er war so zärtlich und
-küsste sie mehr als irgendeiner der Jungen, mit denen sie vor ihm
-geschlafen hatte.
+flüsterte Johann, »Bist du wach?«, schüchtern fast. Lena hatte härteren,
+präziseren Sex von ihm erwartet, aber er war so zärtlich und küsste sie
+mehr als irgendeiner der Jungen, mit denen sie vor ihm geschlafen hatte.
 
 Lena wusste nicht, ob sie verliebt war, aber sie fühlte sich zu Hause.
 Es störte sie nicht, dass sie so wenig miteinander redeten, und sie
@@ -845,7 +844,7 @@ gefragt und nie wieder seine Ex-Frau erwähnt. Sie wusste, wie er war,
 sie musste aber nicht wissen, wie er zu dem geworden war. Sie ahnte,
 dass sie nicht das erste Mädchen auf dem Hof war, mit dem er schlief.
 
-Lena dachte mehr nicht an die Zukunft, wollte keine Entscheidung mehr
+Lena dachte nicht mehr an die Zukunft, wollte keine Entscheidung mehr
 treffen. Es gab eine Routine zwischen ihnen, diktiert von den Pferden,
 von dem Wetter und den Schülern. Wenn die wie so oft in diesem Winter
 nicht kamen und der Wind es erlaubte, ritten Lena und Johann selbst aus
@@ -855,7 +854,7 @@ Erst Mitte Februar drehte sich der Wind und brachte den Schnee. Eines
 morgens fiel er — in dicken, undurchdringlichen Flocken und legte eine
 Stille über alles, die Lena selbst auf diesem Hof nicht für möglich
 gehalten hatte. Sie wäre am liebsten quer über die Felder geritten,
-hätte das weiße Pulver zum fliegen gebracht, aber Johann kannte die
+hätte das weiße Pulver zum Fliegen gebracht, aber Johann kannte die
 Bauern: »Auch wenn jetzt nichts auf den Felder wächst, glauben sie, man
 kann immer noch etwas zerstören.«
 
@@ -1030,6 +1029,8 @@ Stallmauer gelehnt.
 
 ---
 
+---
+
 In der Nacht vor Timos Tod wehte ein Wind — nicht so stark wie während
 der Stürme des Winters, aber stark genug, dass Lena ihn heulen hörte,
 als sie aus Johanns Bett zurück ins Nähzimmer schlich. Johann wusste
@@ -1070,10 +1071,10 @@ aus den Augen.
 Es war schon dunkel, als Johann zurückkehrte. Jemand brachte ihn mit
 einem Auto, ein Mann, den Lena nicht kannte, vielleicht einer der Ärzte,
 vielleicht der Bauer, dem das Feld hinter dem Wald gehörte. Der Fahrer
-blieb ihm Auto sitzen, er rief nur Johann etwas hinterher, als er
+blieb im Auto sitzen, er rief nur Johann etwas hinterher, als er
 ausstieg, aber Lena konnte nicht verstehen, was.
 
-Lena hatte schon vor Stunden vor ihren Sorgen katapultiert. Sie wusste,
+Lena hatte schon vor Stunden vor ihren Sorgen kapituliert. Sie wusste,
 dass etwas passiert war, aber sie klammerte sich an Hoffnungen:
 Vielleicht nur ein gebrochenes Bein, vielleicht nur eine
 Gehirnerschütterung.
@@ -1092,13 +1093,13 @@ endlich einschlief, legte sie eine Decke über ihn.
 
 ---
 
-->**- 3 -**<-
+**- 3 -**
 
 ---
 
 Das Frühstück war fast fertig, der Tisch gedeckt. Nur die Salami fehlte
 noch. Lena nahm sie vom Haken und das Messer aus der Schublade, legte
-die Salami auf das Hackbrett. Das Messer glitt so einfach durch das
+die Salami auf das Schneidbrett. Das Messer glitt so einfach durch das
 Fleisch, Johann hielt es scharf. Viel zu einfach glitt es — und bei der
 sechsten Scheibe passierte es: Lena rammte sich das Messer in die
 Fingerkuppe. Sie ließ das Messer fallen, Blut tropfte auf die Salami,
@@ -1242,7 +1243,7 @@ Johann öffnete die Augen, aber starrte nur an die Decke.
 »Ich habe Frühstück gemacht.«
 
 »Bist du Balko losgeworden?« Auch er flüsterte, als gäbe es jemand
-anderen in Haus, den sie stören könnten.
+anderen im Haus, den sie stören könnten.
 
 »Nein.«
 
@@ -1473,7 +1474,7 @@ erwartet — oder ihren Vater?
 
 »Die hole ich noch.«
 
-»Was hast du deinem Finger gemacht?«
+»Was hast du mit deinem Finger gemacht?«
 
 »Beim Frühstück machen geschnitten.«
 
@@ -1533,10 +1534,10 @@ und lag dort immer noch.
 
 »Danke, Mama.«
 
-Lena schlüpfte aus ihre Stiefel und ging die Treppe hoch. Sie hörte
+Lena schlüpfte aus ihren Stiefeln und ging die Treppe hoch. Sie hörte
 unten für ein paar Augenblicke nichts, aber dann wieder die schlurfenden
 Schritte ihrer Mutter, zurück zum Sofa, zurück in ihr Lager aus Kissen,
-Decken, Fernbedienung, Gläser und Flaschen. Lena ging in ihr Zimmer.
+Decken, Fernbedienung, Gläsern und Flaschen. Lena ging in ihr Zimmer.
 
 Es hatte sich natürlich auch nicht verändert. Ihre Mutter war sicher
 kaum hier drin gewesen, schon gar nicht, um zu putzen. Es roch noch
@@ -1686,7 +1687,7 @@ Schulheften, die sie dort hinein gestopft hatte, als sie das Abitur
 geschafft hatte, fand sie noch fünf 100-Euro-Scheine, ein Geschenk ihres
 Vater, die er ihr einmal zum Geburtstag geschickt hatte, ein paar
 Monate, bevor er letzten Sommer wieder hier aufgetaucht war. Sie
-steckten in einem Kurvet, zusammen mit einer Karte, auf der nur stand:
+steckten in einem Kurvert, zusammen mit einer Karte, auf der nur stand:
 »Du fehlst mir.« Sie faltete die Scheine zusammen und schob sie in ihre
 Gesäßtasche. Die Karte zerriss sie und warf sie in den Papierkorb.
 
