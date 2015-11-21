@@ -14,14 +14,9 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Herunterladen<b class="caret"></b></a>
-          <ul class="dropdown-menu">
-            <li><a href="<%= slug %>.pdf">PDF-Datei</a></li>
-            <li><a href="<%= slug %>.epub">ePub/iBook</a></li>
-            <li><a href="<%= slug %>.mobi">Kindle-eBook</a></li>
-          </ul>
-        </li>
+        <li class="dropdown"><a href="<%= slug %>.mobi">Kindle</a></li>
+        <li class="dropdown"><a href="<%= slug %>.epub">iBook/ePub</a></li>
+        <li class="dropdown"><a href="<%= slug %>.pdf">PDF</a></li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
