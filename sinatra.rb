@@ -2,12 +2,14 @@
 require "sinatra"
 require "yaml"
 require "rdiscount"
+require "csv"
 
 set :bind, '0.0.0.0'
 set :port, 8000
 
 ROOT = settings.root
 STORIES_DIR = "#{ROOT}/stories"
+DATA_DIR = "#{ROOT}/data"
 
 %w{plotdevice.org www.plotdevice.org}.each do |h|
 	get '/', :host_name => h do
@@ -48,6 +50,26 @@ get "/stories/:story" do
 	show :story, :title => "Jürgen Albertsen: #{title}", :story_title => title, :story_text => text, :slug => slug
 end
 
+class Book
+	attr_accessor :author, :title, :isbn, :sort
+end
+
+get "/dasmussweg" do
+	books = []
+	CSV.foreach("#{DATA_DIR}/dasmussweg.csv") do | row |
+		book = Book.new
+		book.author = row[0]
+		book.sort = row[2]
+		book.title = row[3]
+		book.author = "N/A" if book.author.nil? or book.author.strip.empty?
+		book.sort = book.title if book.sort.nil?
+		book.isbn = row[20]
+		books << book
+	end
+	books = books.slice!(1,books.length)
+	books.sort! { | a,b | a.sort <=> b.sort }
+	show :dasmussweg, :title => "Das muss weg!", :books => books
+end
 
 def show(template, locals = {})
 	erb template, :layout => :layout, :locals => locals
