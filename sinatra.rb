@@ -56,7 +56,7 @@ end
 
 get "/dasmussweg" do
 	books = []
-	CSV.foreach("#{DATA_DIR}/dasmussweg.csv") do | row |
+	CSV.foreach("#{DATA_DIR}/dasmussweg.csv", :encoding => "UTF-8") do | row |
 		book = Book.new
 		book.author = row[0]
 		book.sort = row[2]
