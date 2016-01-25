@@ -54,22 +54,22 @@ class Book
 	attr_accessor :author, :title, :isbn, :sort
 end
 
-get "/dasmussweg" do
-	books = []
-	CSV.foreach("#{DATA_DIR}/dasmussweg.csv", :encoding => "UTF-8") do | row |
-		book = Book.new
-		book.author = row[0]
-		book.sort = row[2]
-		book.title = row[3]
-		book.author = "N/A" if book.author.nil? or book.author.strip.empty?
-		book.sort = book.title if book.sort.nil?
-		book.isbn = row[20]
-		books << book
-	end
-	books = books.slice!(1,books.length)
-	books.sort! { | a,b | a.sort <=> b.sort }
-	show :dasmussweg, :title => "Das muss weg!", :books => books
-end
+# get "/dasmussweg" do
+# 	books = []
+# 	CSV.foreach("#{DATA_DIR}/dasmussweg.csv", :encoding => "UTF-8") do | row |
+# 		book = Book.new
+# 		book.author = row[0]
+# 		book.sort = row[2]
+# 		book.title = row[3]
+# 		book.author = "N/A" if book.author.nil? or book.author.strip.empty?
+# 		book.sort = book.title if book.sort.nil?
+# 		book.isbn = row[20]
+# 		books << book
+# 	end
+# 	books = books.slice!(1,books.length)
+# 	books.sort! { | a,b | a.sort <=> b.sort }
+# 	show :dasmussweg, :title => "Das muss weg!", :books => books
+# end
 
 def show(template, locals = {})
 	erb template, :layout => :layout, :locals => locals
