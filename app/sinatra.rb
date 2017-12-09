@@ -5,7 +5,7 @@ require "rdiscount"
 require "csv"
 
 set :bind, '0.0.0.0'
-set :port, 8000
+set :port, 3000
 
 ROOT = settings.root
 STORIES_DIR = "#{ROOT}/stories"
@@ -18,7 +18,6 @@ DATA_DIR = "#{ROOT}/data"
 end
 
 get "/" do
-	puts request
 	stories_file = "#{STORIES_DIR}/index.yaml"
 	stories = if File.exists?(stories_file)
 		YAML.load_file stories_file
