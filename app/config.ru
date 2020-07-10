@@ -1,6 +1,8 @@
-## This is not needed for Thin > 1.0.0
-ENV['RACK_ENV'] = "production"
+ENV["RACK_ENV"] = "production"
 
-require File.expand_path '../sinatra.rb', __FILE__
+require "rubygems"
+require "bundler"
+Bundler.require
+require File.expand_path "../sinatra.rb", __FILE__
 
 run Sinatra::Application
