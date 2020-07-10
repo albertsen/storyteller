@@ -13,9 +13,9 @@
 
 # Do NOT "set -e"
 
-DAEMON=/usr/bin/thin
+DAEMON=/usr/local/bin/thin
 SCRIPT_NAME=/etc/init.d/thin
-CONFIG_PATH=/var/www/juergenalbertsen.de/storyteller/app
+CONFIG_PATH=/etc/thin
 
 # Exit if the package is not installed
 [ -x "$DAEMON" ] || exit 0
