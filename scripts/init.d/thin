@@ -17,17 +17,17 @@ THIN=/usr/local/bin/thin
 BUNDLE=/usr/local/bin/bundle
 SCRIPT_NAME=/etc/init.d/thin
 CONFIG_PATH=/etc/thin
-APP_PATH=/var/www/juergenalbertsen.de
+APP_PATH=/var/www/juergenalbertsen.de/app
 
 case "$1" in
   start)
-	cd $APP_PATH && $BUNDLE $THIN start --all $CONFIG_PATH
+	cd $APP_PATH && $BUNDLE exec $THIN start --all $CONFIG_PATH
 	;;
   stop)
-	cd $APP_PATH && $BUNDLE $THIN stop --all $CONFIG_PATH
+	cd $APP_PATH && $BUNDLE exec $THIN stop --all $CONFIG_PATH
 	;;
   restart)
-	cd $APP_PATH && $BUNDLE $THIN restart --all $CONFIG_PATH
+	cd $APP_PATH && $BUNDLE exec $THIN restart --all $CONFIG_PATH
 	;;
   *)
 	echo "Usage: $SCRIPT_NAME {start|stop|restart}" >&2
