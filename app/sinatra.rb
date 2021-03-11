@@ -8,7 +8,7 @@ set :bind, '0.0.0.0'
 set :port, 3000
 
 ROOT = settings.root
-STORIES_DIR = "#{ROOT}/stories"
+STORIES_DIR = ENV["STORIES_DIR"] || "#{ROOT}/stories"
 DATA_DIR = "#{ROOT}/data"
 
 %w{plotdevice.org www.plotdevice.org}.each do |h|
