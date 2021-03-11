@@ -7,9 +7,8 @@ require "csv"
 set :bind, '0.0.0.0'
 set :port, 3000
 
-ROOT = settings.root
-STORIES_DIR = ENV["STORIES_DIR"] || "#{ROOT}/stories"
-DATA_DIR = "#{ROOT}/data"
+SITE_DIR = ENV["SITE_DIR"] || settings.root
+STORIES_DIR = File.join(SITE_DIR, "stories")
 
 %w{plotdevice.org www.plotdevice.org}.each do |h|
 	get '/', :host_name => h do
