@@ -7,7 +7,8 @@ set :bind, '0.0.0.0'
 set :port, 3000
 
 SITE_DIR = ENV["SITE_DIR"] || settings.root
-settings.views = File.join(SITE_DIR, "views")
+set :views, File.join(SITE_DIR, "views")
+set :public_folder, File.join(SITE_DIR, "public")
 STORIES_DIR = File.join(SITE_DIR, "stories")
 CONFIG=YAML.load_file(File.join(SITE_DIR, "config.yaml")) 
 MAIN_TITLE=CONFIG["main_title"]
