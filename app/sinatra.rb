@@ -2,19 +2,15 @@
 require "sinatra"
 require "yaml"
 require "rdiscount"
-require "csv"
 
 set :bind, '0.0.0.0'
 set :port, 3000
 
 SITE_DIR = ENV["SITE_DIR"] || settings.root
 STORIES_DIR = File.join(SITE_DIR, "stories")
-
-%w{plotdevice.org www.plotdevice.org}.each do |h|
-	get '/', :host_name => h do
-  		redirect 'http://www.juergenalbertsen.de', 301
-	end
-end
+CONFIG=YAML.load_file(File.join(SITE_DIR, "config.yaml")) 
+MAIN_TITLE=CONFIG["main_title"]
+STORY_TITLE_PREFIX=CONFIG["story_title_prefix"]
 
 get "/" do
 	stories_file = "#{STORIES_DIR}/index.yaml"
@@ -23,7 +19,7 @@ get "/" do
 	else
 		{}
 	end
-	show :index, :title => "Jürgen Albertsen: Geschichten", :stories => stories
+	show :index, :title => MAIN_TITLE, :stories => stories
 end
 
 get "/stories/:story.:ext" do
@@ -40,12 +36,13 @@ get "/stories/:story" do
 	unless File.exists? file
 		halt 404, "Does not exist: #{slug}"
 	end
-	content = File.read file, {:encoding => "UTF-8"}
+	puts file
+	content = File.read file, :encoding => "UTF-8"
 	i = content.index "="
 	title = content[0..(i - 1)].strip
 	title.gsub!(/(<[^>]*>)|\n|\t/s) {" "}
 	text = RDiscount.new(content).to_html
-	show :story, :title => "Jürgen Albertsen: #{title}", :story_title => title, :story_text => text, :slug => slug
+	show :story, :title => "#{STORY_TITLE_PREFIX}: #{title}", :story_title => title, :story_text => text, :slug => slug
 end
 
 def show(template, locals = {})
